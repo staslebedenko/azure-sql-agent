@@ -1,0 +1,11 @@
+# Azure OpenAI Assistants API
+openai>=1.30.0
+
+# Azure Identity (Entra token for SQL auth)
+azure-identity>=1.17.0
+
+# SQL Server connectivity
+pyodbc>=5.1.0
+
+# Env-file support
+python-dotenv>=1.0.1
